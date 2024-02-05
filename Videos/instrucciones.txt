@@ -1,0 +1,1 @@
+Colocar en este direcctorio los videos que servirán para generar el modelo de reconocimiento facial.
