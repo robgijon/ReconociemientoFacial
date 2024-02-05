@@ -1,0 +1,1 @@
+En este direccotio se almacenarán la lista de captruas que genera el código para luego entrenar al modelo. Se creaŕa de forma automática una carpeta por persona con el nombre que se indique. 
